@@ -46,17 +46,20 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/WhatsWrongOB/reduxjs-toolkit-prctice.git
 
+
  2. **Navigate to your project directory**:
 
    ```bash  
    cd reduxjs-toolkit-prctice
+
 
  3. **Install dependencies**:
 
    ```bash
    npm install
 
+
  4. **Start the party**:  
 
-    ```bash
+   ```bash
    npm run dev
